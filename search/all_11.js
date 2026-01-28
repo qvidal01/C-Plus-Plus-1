@@ -52,7 +52,7 @@ var searchData=
   ['locally_49',['Building Locally',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md37',1,'']]],
   ['log_50',['LOG',['../da/d37/structdata__structures_1_1sparse__table_1_1_sparse__table.html#a6cf72f93b1551f0d943c585b4f173be3',1,'data_structures::sparse_table::Sparse_table']]],
   ['log_51',['log',['../d5/d58/class_test_cases.html#aa3aa3d5bf666f327ee8e2d11d397b06e',1,'TestCases::log(T msg)'],['../d5/d58/class_test_cases.html#aa3aa3d5bf666f327ee8e2d11d397b06e',1,'TestCases::log(T msg)'],['../d5/d58/class_test_cases.html#aa3aa3d5bf666f327ee8e2d11d397b06e',1,'TestCases::log(T msg)'],['../d3/db3/lru__cache_8cpp.html#a24d21a345ed06f7fba6919718cf3e058',1,'lru_tests::log()']]],
-  ['logic_52',['Logic',['../d3/db3/lru__cache_8cpp.html#autotoc_md96',1,'']]],
+  ['logic_52',['Logic',['../d3/db3/lru__cache_8cpp.html#autotoc_md106',1,'']]],
   ['longest_5fcommon_5fstring_2ecpp_53',['longest_common_string.cpp',['../da/d0d/longest__common__string_8cpp.html',1,'']]],
   ['longest_5fcommon_5fstring_5flength_54',['longest_common_string_length',['../da/d0d/longest__common__string_8cpp.html#aa38b6b17bc5d46ed88acdd8414e18fa5',1,'longest_common_string.cpp']]],
   ['longest_5fincreasing_5fsubsequence_2ecpp_55',['longest_increasing_subsequence.cpp',['../d7/d57/longest__increasing__subsequence_8cpp.html',1,'']]],

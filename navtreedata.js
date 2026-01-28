@@ -95,6 +95,19 @@ var NAVTREE =
       [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md67", null ],
       [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md68", null ]
     ] ],
+    [ "API Reference", "d9/de9/md_docs_2api.html", [
+      [ "Overview", "d9/de9/md_docs_2api.html#autotoc_md70", null ]
+    ] ],
+    [ "Getting Started", "d7/d62/md_docs_2getting-started.html", [
+      [ "Prerequisites", "d7/d62/md_docs_2getting-started.html#autotoc_md72", null ],
+      [ "Installation", "d7/d62/md_docs_2getting-started.html#autotoc_md73", null ],
+      [ "Usage", "d7/d62/md_docs_2getting-started.html#autotoc_md74", null ]
+    ] ],
+    [ "C-Plus-Plus-1", "d3/d4c/md_docs_2index.html", [
+      [ "Installation", "d3/d4c/md_docs_2index.html#autotoc_md76", null ],
+      [ "Quick Start", "d3/d4c/md_docs_2index.html#autotoc_md77", null ],
+      [ "Documentation", "d3/d4c/md_docs_2index.html#autotoc_md78", null ]
+    ] ],
     [ "Guidelines for reviewers and maintainers", "d7/d1b/md__r_e_v_i_e_w_e_r___c_o_d_e.html", null ],
     [ "Todo List", "dd/da0/todo.html", null ],
     [ "Topics", "topics.html", "topics" ],
@@ -136,19 +149,19 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d1/d83/classuint256__t.html#af2193ff0d0e93143fb71f4847df16028",
-"d3/d06/ode__semi__implicit__euler_8cpp_source.html",
-"d4/d8f/travelling__salesman__using__bit__manipulation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"d5/d95/structdata__structures_1_1treap_1_1_treap.html#a1ab082fe0aa95a238bbbc68ab6a72425",
-"d6/dae/classothers_1_1lru__cache_1_1_l_r_u_cache.html#a41c9b6f1693b8a316cc4a2d8c9149ba4",
-"d8/d2e/classothers_1_1_cache_1_1_l_r_u_cache.html#a8dab0f69410484f772946befd24cc3c5",
-"d8/dfd/structoperations__on__datastructures_1_1reverse__binary__tree_1_1_node.html",
-"da/d0d/longest__common__string_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html#a2f80f87fc6f6ded938426698bba89323",
-"dc/d53/classtests_1_1_circular_linked_list.html#a9cc37166f2f73763df39894b675f89c9",
-"dd/d47/namespacemath.html#ab3b920cc56442abd92279ba23b50f4dc",
-"de/dc3/fibonacci__sum_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"dir_cc8e79ed9d2b7756c78e8d0c87c6c0c7.html"
+"d1/d83/classuint256__t.html#af18e2e3d7ed635c4056062bc906fef75",
+"d3/d06/ode__semi__implicit__euler_8cpp.html#abaeae8f62a018d197f0187a1c80a90fe",
+"d4/d8d/jarvis__algorithm_8cpp.html",
+"d5/d91/namespacesorting.html#af2c5b92cbfe73f63f6074c61b0a45331",
+"d6/dae/classothers_1_1lru__cache_1_1_l_r_u_cache.html",
+"d8/d2e/classothers_1_1_cache_1_1_l_r_u_cache.html#a448121f391a71f4cf88c3cb6c4cf3100",
+"d8/df2/classadaline.html#a8d61f9ed872eef26bca39388cbda6a91",
+"da/d02/classmachine__learning_1_1aystar__search_1_1_ay_star_search.html#a48284e156fdd48fd0c41008c7e48f201",
+"db/d3c/tower__of__hanoi_8cpp.html#af4cfc41e546f1f8d25f01e0804e8b61d",
+"dc/d53/classtests_1_1_circular_linked_list.html#a3b7bbb0918c261bc216aef9e6dd39aa4",
+"dd/d47/namespacemath.html#a8d8e81a7cd59644b311ef9adb268f5f0",
+"de/db3/namespaceatbash.html",
+"dir_59dc24c326e2a72d1164f014b22de83d.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

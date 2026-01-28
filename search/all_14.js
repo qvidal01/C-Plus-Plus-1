@@ -4,9 +4,9 @@ var searchData=
   ['ode_5fmidpoint_5feuler_2ecpp_1',['ode_midpoint_euler.cpp',['../d6/dd3/ode__midpoint__euler_8cpp.html',1,'']]],
   ['ode_5fsemi_5fimplicit_5feuler_2ecpp_2',['ode_semi_implicit_euler.cpp',['../d3/d06/ode__semi__implicit__euler_8cpp.html',1,'']]],
   ['of_20a_20program_3',['Typical structure of a program',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md31',1,'']]],
-  ['of_20a_20tree_4',['of a tree',['../d8/d90/iterative__tree__traversals_8cpp.html#autotoc_md95',1,'Iterative Inorder Traversal of a tree'],['../dc/de1/recursive__tree__traversal_8cpp.html#autotoc_md99',1,'Iterative Inorder Traversal of a tree'],['../d8/d90/iterative__tree__traversals_8cpp.html#autotoc_md94',1,'Iterative Postorder Traversal of a tree'],['../dc/de1/recursive__tree__traversal_8cpp.html#autotoc_md101',1,'Iterative Postorder Traversal of a tree'],['../d8/d90/iterative__tree__traversals_8cpp.html#autotoc_md93',1,'Iterative Preorder Traversal of a tree'],['../dc/de1/recursive__tree__traversal_8cpp.html#autotoc_md100',1,'Iterative Preorder Traversal of a tree']]],
+  ['of_20a_20tree_4',['of a tree',['../d8/d90/iterative__tree__traversals_8cpp.html#autotoc_md105',1,'Iterative Inorder Traversal of a tree'],['../dc/de1/recursive__tree__traversal_8cpp.html#autotoc_md109',1,'Iterative Inorder Traversal of a tree'],['../d8/d90/iterative__tree__traversals_8cpp.html#autotoc_md104',1,'Iterative Postorder Traversal of a tree'],['../dc/de1/recursive__tree__traversal_8cpp.html#autotoc_md111',1,'Iterative Postorder Traversal of a tree'],['../d8/d90/iterative__tree__traversals_8cpp.html#autotoc_md103',1,'Iterative Preorder Traversal of a tree'],['../dc/de1/recursive__tree__traversal_8cpp.html#autotoc_md110',1,'Iterative Preorder Traversal of a tree']]],
   ['of_20conduct_5',['Contributor Covenant Code of Conduct',['../d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html',1,'']]],
-  ['of_20parent_20nodes_6',['Method 1: Use parent pointer (store the address of parent nodes)',['../d4/d32/inorder__successor__of__bst_8cpp.html#autotoc_md91',1,'']]],
+  ['of_20parent_20nodes_6',['Method 1: Use parent pointer (store the address of parent nodes)',['../d4/d32/inorder__successor__of__bst_8cpp.html#autotoc_md101',1,'']]],
   ['offset_7',['offset',['../de/d0d/classrange__queries_1_1fenwick__tree.html#ab492ebf07cab0e3c32d277ad986de801',1,'range_queries::fenwick_tree']]],
   ['ols_5ftest_8',['ols_test',['../dc/d38/ordinary__least__squares__regressor_8cpp.html#a4261f3c3c3dfdb86f3004eb8aaffea8d',1,'ordinary_least_squares_regressor.cpp']]],
   ['on_20datastructures_9',['Operations On Datastructures',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md61',1,'']]],
@@ -62,5 +62,5 @@ var searchData=
   ['others_3a_3acache_59',['Cache',['../db/dde/namespaceothers_1_1_cache.html',1,'others']]],
   ['our_20pledge_60',['Our Pledge',['../d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md5',1,'']]],
   ['our_20standards_61',['Our Standards',['../d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md6',1,'']]],
-  ['overview_62',['Overview',['../index.html#autotoc_md103',1,'']]]
+  ['overview_62',['Overview',['../d9/de9/md_docs_2api.html#autotoc_md70',1,'Overview'],['../index.html#autotoc_md113',1,'Overview']]]
 ];

@@ -2,8 +2,8 @@ var namespacegraph =
 [
     [ "Graph", "dc/d61/classgraph_1_1_graph.html", "dc/d61/classgraph_1_1_graph" ],
     [ "HKGraph", "d8/d69/classgraph_1_1_h_k_graph.html", "d8/d69/classgraph_1_1_h_k_graph" ],
-    [ "LowestCommonAncestor", "d9/d23/classgraph_1_1_lowest_common_ancestor.html", "d9/d23/classgraph_1_1_lowest_common_ancestor" ],
     [ "RootedTree", "d0/d58/classgraph_1_1_rooted_tree.html", "d0/d58/classgraph_1_1_rooted_tree" ],
+    [ "LowestCommonAncestor", "d9/d23/classgraph_1_1_lowest_common_ancestor.html", "d9/d23/classgraph_1_1_lowest_common_ancestor" ],
     [ "addEdge", "df/dce/namespacegraph.html#a9125ceb66bfbec3093bba64c2c1e99e2", null ],
     [ "addEdge", "df/dce/namespacegraph.html#ad4016cfc80485a43748895a2c26c7d08", null ],
     [ "addEdge", "df/dce/namespacegraph.html#a0e30e0dca68cb6e4f671440819b35b6a", null ],

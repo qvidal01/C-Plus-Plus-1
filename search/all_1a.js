@@ -21,10 +21,11 @@ var searchData=
   ['update_5fstep_18',['update_step',['../d9/d5d/extended__euclid__algorithm_8cpp.html#abe92d63a0ff9bda7e304df510d5dd217',1,'extended_euclid_algorithm.cpp']]],
   ['update_5fweights_19',['update_weights',['../d8/d77/namespacemachine__learning.html#ae868ad43698a1d69ba46ea3827d7d2c3',1,'machine_learning::update_weights(const std::valarray&lt; double &gt; &amp;X, std::vector&lt; std::vector&lt; std::valarray&lt; double &gt; &gt; &gt; *W, std::vector&lt; std::valarray&lt; double &gt; &gt; *D, double alpha, int R)'],['../d8/d77/namespacemachine__learning.html#aa6aac06ccf128b0a9c55c9ee1a8e5631',1,'machine_learning::update_weights(const std::valarray&lt; double &gt; &amp;x, std::vector&lt; std::valarray&lt; double &gt; &gt; *W, std::valarray&lt; double &gt; *D, double alpha, int R)']]],
   ['upper_20',['upper',['../db/d9a/classuint128__t.html#a1ee2f1ffbd9984faad34883eb45e9705',1,'uint128_t::upper()'],['../d1/d83/classuint256__t.html#aecb2883133c8c8b9fcfb77ab69b03ab5',1,'uint256_t::upper()']]],
-  ['use_20parent_20pointer_20store_20the_20address_20of_20parent_20nodes_21',['Method 1: Use parent pointer (store the address of parent nodes)',['../d4/d32/inorder__successor__of__bst_8cpp.html#autotoc_md91',1,'']]],
-  ['used_22',['Data Structure used',['../d3/db3/lru__cache_8cpp.html#autotoc_md98',1,'']]],
-  ['user_20interface_23',['User-interface',['../dc/d64/md__coding_guidelines.html#autotoc_md18',1,'']]],
-  ['user_5finput_5ftest_24',['user_input_test',['../d4/d38/power__of__two_8cpp.html#adfd6be45be425ae28c62ce3bfb4b40dc',1,'power_of_two.cpp']]],
-  ['util_5ffunctions_25',['util_functions',['../d3/d17/namespaceutil__functions.html',1,'']]],
-  ['utils_26',['utils',['../d6/d84/namespaceutils.html',1,'']]]
+  ['usage_21',['Usage',['../d7/d62/md_docs_2getting-started.html#autotoc_md74',1,'']]],
+  ['use_20parent_20pointer_20store_20the_20address_20of_20parent_20nodes_22',['Method 1: Use parent pointer (store the address of parent nodes)',['../d4/d32/inorder__successor__of__bst_8cpp.html#autotoc_md101',1,'']]],
+  ['used_23',['Data Structure used',['../d3/db3/lru__cache_8cpp.html#autotoc_md108',1,'']]],
+  ['user_20interface_24',['User-interface',['../dc/d64/md__coding_guidelines.html#autotoc_md18',1,'']]],
+  ['user_5finput_5ftest_25',['user_input_test',['../d4/d38/power__of__two_8cpp.html#adfd6be45be425ae28c62ce3bfb4b40dc',1,'power_of_two.cpp']]],
+  ['util_5ffunctions_26',['util_functions',['../d3/d17/namespaceutil__functions.html',1,'']]],
+  ['utils_27',['utils',['../d6/d84/namespaceutils.html',1,'']]]
 ];
